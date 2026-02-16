@@ -1,18 +1,15 @@
 ---
-featured_image: "/images/302 Netz.JPG"
-alt: "Vogelschutznetz in blau, hängend vor Beerenstrauch"
+featured_image: "/images/Kirschen mit Netz.png"
+alt: "Kirschennetz in grün, hängend vor Kirschen"
 weight: 1
 read_more_copy: "Lesen Sie mehr auf unserer Website"
 link: "https://agro-flor.com/vogelschutznetz.html"
 
 ---
-# Vogelschutznetze
+# Kirschennetz
 
-- Vogelschutznetze für Kirschen, Beeren, Trauben, Ernte
-- Vogelschutznetze für Hühnerauslauf, Schutz gegen Greifvögel, Einhalten der Stallpflicht
-- Vogelschutznetze als Teichschutznetz
-
-
+- Vogelschutznetze für Kirschen und anderen Früchten
+- Vogelschutznetze für Schutz gegen Greifvögel
 
 | **Artikel**      | 1.301             | 1.302                   | 1.303                       |
 | :--------------- | :---------------- | :---------------------- | :-------------------------- |

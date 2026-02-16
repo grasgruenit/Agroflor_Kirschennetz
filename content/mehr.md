@@ -6,7 +6,7 @@ read_more_copy:
 
 ---
 
-**Eigenschaften Vogelschutznetz**
+**Eigenschaften Kirschennetz**
 
 - Schutzfaktor 100 %
 - umweltfreundliches, reißfestes PE-Material
