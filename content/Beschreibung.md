@@ -6,6 +6,11 @@ read_more_copy: "Lesen Sie mehr auf unserer Website"
 link: "https://agro-flor.com/vogelschutznetz.html"
 
 ---
+<style>
+  table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+  th, td { border: 1px solid #cccccc; padding: 10px; text-align: left; }
+  th { background-color: #f2f2f2; }
+</style>
 # Kirschennetz
 
 - Vogelschutznetze für Kirschen und anderen Früchten
